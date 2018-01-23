@@ -6,4 +6,4 @@ Visit the course materials for the hands-on activity at [http://www.github.com/u
 
 First, add a file named after your initials to the appropriate class folder.
 
-In the later activity, you will edit the `git-review.md` file to answer a review question. Instructions in course materials, but may change in class!
+In the later activity, you will edit the `git-review.md` file to answer a review question. Instructions in course materials, but may change in class! You'll receive numbers in class to determine which questions you'll answer.
